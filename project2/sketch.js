@@ -20,7 +20,7 @@ function setup() {
   vertex(140, 100);
   vertex(130, 120);
   endShape();
-  fill(0);
+  fill(255);
   ellipse(155, 60, 8, 8);
   // Right creature
   fill(255);
